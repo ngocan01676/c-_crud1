@@ -1,0 +1,22 @@
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Linh Pham\Desktop\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\duyli\OneDrive\Training\Youtube\Netcore\SimpleWebApi\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
